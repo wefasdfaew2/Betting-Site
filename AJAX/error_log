@@ -1,0 +1,18 @@
+[28-Jan-2015 19:20:55 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/admin/public_html/yungtechboy1.com/sports/AJAX/getplayerinfo.php on line 45
+[28-Jan-2015 19:21:06 UTC] PHP Warning:  Creating default object from empty value in /home/admin/public_html/yungtechboy1.com/sports/AJAX/getplayerinfo.php on line 43
+[28-Jan-2015 19:21:06 UTC] PHP Fatal error:  Cannot access empty property in /home/admin/public_html/yungtechboy1.com/sports/AJAX/getplayerinfo.php on line 43
+[28-Jan-2015 19:23:31 UTC] PHP Warning:  main(): Node no longer exists in /home/admin/public_html/yungtechboy1.com/sports/AJAX/getplayerinfo.php on line 43
+[29-Jan-2015 03:35:50 UTC] PHP Fatal error:  Call to a member function children() on a non-object in /home/admin/public_html/yungtechboy1.com/sports/AJAX/getplayerinfo.php on line 44
+[30-Jan-2015 00:32:34 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/admin/public_html/yungtechboy1.com/sports/AJAX/getadminsettings.php on line 9
+[30-Jan-2015 00:39:19 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/admin/public_html/yungtechboy1.com/sports/AJAX/getadminsettings.php on line 12
+[30-Jan-2015 00:40:28 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/admin/public_html/yungtechboy1.com/sports/AJAX/getadminsettings.php on line 12
+[30-Jan-2015 00:40:41 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/admin/public_html/yungtechboy1.com/sports/AJAX/getadminsettings.php on line 12
+[30-Jan-2015 00:41:11 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/admin/public_html/yungtechboy1.com/sports/AJAX/getadminsettings.php on line 12
+[30-Jan-2015 00:42:03 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/admin/public_html/yungtechboy1.com/sports/AJAX/getadminsettings.php on line 13
+[30-Jan-2015 00:42:42 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/admin/public_html/yungtechboy1.com/sports/AJAX/getadminsettings.php on line 13
+[30-Jan-2015 00:42:42 UTC] PHP Warning:  Creating default object from empty value in /home/admin/public_html/yungtechboy1.com/sports/AJAX/getadminsettings.php on line 13
+[30-Jan-2015 00:42:42 UTC] PHP Fatal error:  Cannot access empty property in /home/admin/public_html/yungtechboy1.com/sports/AJAX/getadminsettings.php on line 13
+[30-Jan-2015 00:42:49 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/admin/public_html/yungtechboy1.com/sports/AJAX/getadminsettings.php on line 13
+[30-Jan-2015 00:43:00 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/admin/public_html/yungtechboy1.com/sports/AJAX/getadminsettings.php on line 13
+[30-Jan-2015 00:44:14 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/admin/public_html/yungtechboy1.com/sports/AJAX/getadminsettings.php on line 16
+[30-Jan-2015 00:44:56 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/admin/public_html/yungtechboy1.com/sports/AJAX/getadminsettings.php on line 14

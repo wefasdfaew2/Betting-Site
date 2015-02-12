@@ -1,0 +1,18 @@
+[20-Jan-2015 16:19:01 UTC] PHP Warning:  simplexml_load_string(): Entity: line 1: parser error : Start tag expected, '&lt;' not found in /home/admin/public_html/yungtechboy1.com/sports/addbets.php on line 1249
+[20-Jan-2015 16:19:01 UTC] PHP Warning:  simplexml_load_string(): { &quot;statusCode&quot;: 404, &quot;message&quot;: &quot;Resource not found&quot; } in /home/admin/public_html/yungtechboy1.com/sports/addbets.php on line 1249
+[20-Jan-2015 16:19:01 UTC] PHP Warning:  simplexml_load_string(): ^ in /home/admin/public_html/yungtechboy1.com/sports/addbets.php on line 1249
+[20-Jan-2015 16:20:12 UTC] PHP Warning:  simplexml_load_string(): Entity: line 1: parser error : Start tag expected, '&lt;' not found in /home/admin/public_html/yungtechboy1.com/sports/addbets.php on line 1254
+[20-Jan-2015 16:20:12 UTC] PHP Warning:  simplexml_load_string(): { &quot;statusCode&quot;: 404, &quot;message&quot;: &quot;Resource not found&quot; } in /home/admin/public_html/yungtechboy1.com/sports/addbets.php on line 1254
+[20-Jan-2015 16:20:12 UTC] PHP Warning:  simplexml_load_string(): ^ in /home/admin/public_html/yungtechboy1.com/sports/addbets.php on line 1254
+[20-Jan-2015 16:23:35 UTC] PHP Warning:  simplexml_load_string(): Entity: line 1: parser error : Start tag expected, '&lt;' not found in /home/admin/public_html/yungtechboy1.com/sports/addbets.php on line 1255
+[20-Jan-2015 16:23:35 UTC] PHP Warning:  simplexml_load_string(): { &quot;statusCode&quot;: 404, &quot;message&quot;: &quot;Resource not found&quot; } in /home/admin/public_html/yungtechboy1.com/sports/addbets.php on line 1255
+[20-Jan-2015 16:23:35 UTC] PHP Warning:  simplexml_load_string(): ^ in /home/admin/public_html/yungtechboy1.com/sports/addbets.php on line 1255
+[20-Jan-2015 16:29:20 UTC] PHP Warning:  simplexml_load_string(): Entity: line 1: parser error : Start tag expected, '&lt;' not found in /home/admin/public_html/yungtechboy1.com/sports/addbets.php on line 1255
+[20-Jan-2015 16:29:20 UTC] PHP Warning:  simplexml_load_string(): { &quot;statusCode&quot;: 404, &quot;message&quot;: &quot;Resource not found&quot; } in /home/admin/public_html/yungtechboy1.com/sports/addbets.php on line 1255
+[20-Jan-2015 16:29:20 UTC] PHP Warning:  simplexml_load_string(): ^ in /home/admin/public_html/yungtechboy1.com/sports/addbets.php on line 1255
+[20-Jan-2015 16:29:20 UTC] PHP Warning:  require_once(HTTP/Request2.php): failed to open stream: No such file or directory in /home/admin/public_html/yungtechboy1.com/sports/addbets.php on line 1268
+[20-Jan-2015 16:29:20 UTC] PHP Fatal error:  require_once(): Failed opening required 'HTTP/Request2.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/admin/public_html/yungtechboy1.com/sports/addbets.php on line 1268
+[20-Jan-2015 16:51:07 UTC] PHP Fatal error:  Call to undefined function addHeader() in /home/admin/public_html/yungtechboy1.com/sports/addbets.php on line 2
+[27-Jan-2015 22:09:52 UTC] PHP Parse error:  syntax error, unexpected '$Team' (T_VARIABLE), expecting ',' or ';' in /home/admin/public_html/yungtechboy1.com/sports/addbets.php on line 1231
+[27-Jan-2015 22:09:55 UTC] PHP Parse error:  syntax error, unexpected '$Team' (T_VARIABLE), expecting ',' or ';' in /home/admin/public_html/yungtechboy1.com/sports/addbets.php on line 1231
+[27-Jan-2015 23:09:53 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/admin/public_html/yungtechboy1.com/sports/addbets.php on line 17
